@@ -1,11 +1,3 @@
-# s-code-template#react-ts-template:React Ts Project Template.
+# display-animation-grid-react
 
-## ps
-- vscode need to add the setting {"eslint.validate": ["typescript"]} to make eslint effective
-
-## update log  2021.12.19
-- use yarn
-- add Navs, Home page.
-- use React Router V6
-- add prettierrc
-- add Icon component
+### 一个带有动画效果的的网格布局，兼容网格布局的属性之外，提供一些子组件的添加，移除，交换等动画效果。
